@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-fuego-lento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Besos de fuego lento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego-lento/) |
+| **Get License** | [Official Music Licensing for Besos de fuego lento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego-lento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Besos de fuego lento en la noche
+> Queman mi piel con tu voz que provoca
+> Dame ese ritmo que solo tú tienes
+> Bailando lento hasta que el sol toque
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `95dafd38c004d5e843a1c28748b13ce96b55184df66c551bf0c82c011d8b85ce` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

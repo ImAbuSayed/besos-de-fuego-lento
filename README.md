@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-fuego-lento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Besos de fuego lento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego-lento/) |
+| **Get License** | [Official Music Licensing for Besos de fuego lento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego-lento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `95dafd38c004d5e843a1c28748b13ce96b55184df66c551bf0c82c011d8b85ce` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
